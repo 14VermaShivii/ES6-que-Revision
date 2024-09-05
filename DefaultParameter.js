@@ -17,4 +17,4 @@
 
 
 // console = for one function 
-// return = more than one function run or use one function output use in other function
+// return = more than one function run or use one function output use in other function used for return output
